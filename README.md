@@ -21,6 +21,8 @@ and, for PGD, different numbers of attack steps. A further goal is to compare FG
 terms of their ability to reduce accuracy while keeping the perturbed images visually close to the
 original samples, and to illustrate these effects through visual examples and perturbation heatmaps.
 
+[Read the project report here](./CS685_Report.pdf)
+
 ---
 
 ## 🚀 Project Structure
