@@ -208,4 +208,4 @@ This project is open-source and available under the MIT License.
 
 ## 📧 Contact
 
-For questions or collaboration, feel free to reach out to any of the contributors listed above.
+For questions or collaboration, feel free to reach out to: officialbalaka@gmail.com
