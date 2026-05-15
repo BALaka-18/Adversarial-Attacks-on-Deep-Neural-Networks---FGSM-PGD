@@ -7,6 +7,18 @@ Two major white-box attacks are implemented:
 * **Projected Gradient Descent (PGD)**
 
 The project evaluates model robustness across different perturbation strengths, computes Attack Success Rates (ASR), and visualizes adversarial examples vs. clean images.
+---
+
+## Objective
+
+This project studies how a convolutional neural network (CNN) trained on the CIFAR-10 dataset
+can be intentionally misled by small, carefully constructed perturbations to the input images. The
+chosen project direction is adversarial attack, using two gradient based methods: the Fast Gradient
+Sign Method (FGSM) and Projected Gradient Descent (PGD). The main objective is to quantify
+how the classifier’s accuracy and the attack success rate change under different perturbation budgets
+and, for PGD, different numbers of attack steps. A further goal is to compare FGSM and PGD in
+terms of their ability to reduce accuracy while keeping the perturbed images visually close to the
+original samples, and to illustrate these effects through visual examples and perturbation heatmaps.
 
 ---
 
