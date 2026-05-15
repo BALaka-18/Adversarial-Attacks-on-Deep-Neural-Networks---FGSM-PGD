@@ -7,6 +7,7 @@ Two major white-box attacks are implemented:
 * **Projected Gradient Descent (PGD)**
 
 The project evaluates model robustness across different perturbation strengths, computes Attack Success Rates (ASR), and visualizes adversarial examples vs. clean images.
+
 ---
 
 ## Objective
